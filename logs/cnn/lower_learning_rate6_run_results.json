@@ -1,0 +1,1 @@
+{"run_name": "lower_learning_rate6", "config": {"learning_rate": 0.0001}, "train_time (seconds)": 428.80318237100437, "best_epoch": 21, "best_loss": 0.07198039310541306, "best_val_loss": 0.09187423426598434, "best_accuracy": 0.9744196534156799, "best_val_accuracy": 0.9707273840904236, "best_f1": 0.9744196534156799, "best_val_f1": 0.9707273840904236}

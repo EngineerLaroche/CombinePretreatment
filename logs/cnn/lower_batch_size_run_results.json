@@ -1,0 +1,1 @@
+{"run_name": "lower_batch_size", "config": {"batch_size": 10}, "train_time (seconds)": 168.88831351299814, "best_epoch": 3, "best_loss": 0.12639895068378387, "best_val_loss": 0.08915193944942117, "best_accuracy": 0.9564542174339294, "best_val_accuracy": 0.9695446491241455, "best_f1": 0.9564542174339294, "best_val_f1": 0.9695446491241455}

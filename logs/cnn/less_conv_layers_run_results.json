@@ -1,0 +1,1 @@
+{"run_name": "less_conv_layers", "config": {"layers": "less"}, "train_time (seconds)": 214.7618978190003, "best_epoch": 8, "best_loss": 0.07984987967326063, "best_val_loss": 0.12272275879203674, "best_accuracy": 0.9716102480888367, "best_val_accuracy": 0.9642223715782166, "best_f1": 0.9716102480888367, "best_val_f1": 0.9642223119735718}

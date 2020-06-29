@@ -1,0 +1,1 @@
+{"run_name": "more_conv_layers", "config": {"layers": "more"}, "train_time (seconds)": 212.20065575499757, "best_epoch": 7, "best_loss": 0.08165668802118003, "best_val_loss": 0.07130926038732831, "best_accuracy": 0.9702794551849365, "best_val_accuracy": 0.978119432926178, "best_f1": 0.9702793955802917, "best_val_f1": 0.978119432926178}

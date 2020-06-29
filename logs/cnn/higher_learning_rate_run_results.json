@@ -1,0 +1,1 @@
+{"run_name": "higher_learning_rate", "config": {"learning_rate": 0.01}, "train_time (seconds)": 96.34230485599983, "best_epoch": 3, "best_loss": 0.6931261873255815, "best_val_loss": 0.6927418914650545, "best_accuracy": 0.5135294795036316, "best_val_accuracy": 0.5162625908851624, "best_f1": 0.5135294795036316, "best_val_f1": 0.5162625908851624}

@@ -1,0 +1,20 @@
+
+data/raw/imgs
+data/processed/imgs
+
+# Ignore PyCharm things
+.idea/
+
+# Ignore compiled things
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore those lonely build things
+build
+
+# Ignore that Jupyter Notebook thing
+.ipynb_checkpoints
+
+!data/raw/imgs/.gitkeep
+!data/processed/imgs/.gitkeep

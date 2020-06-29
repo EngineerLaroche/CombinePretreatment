@@ -1,0 +1,1 @@
+{"run_name": "baseline_50percent2", "config": null, "train_time (seconds)": 86.78261145799479, "best_epoch": 5, "best_loss": 0.11831513751624834, "best_val_loss": 0.12477727363900558, "best_accuracy": 0.9562324285507202, "best_val_accuracy": 0.9515079855918884, "best_f1": 0.9562324285507202, "best_val_f1": 0.9515079855918884}

@@ -1,0 +1,1 @@
+{"run_name": "baseline_100epoch", "config": null, "train_time (seconds)": 1643.8062920390003, "best_epoch": 6, "best_loss": 0.07527195322670899, "best_val_loss": 0.08050915560867397, "best_accuracy": 0.972940981388092, "best_val_accuracy": 0.9760496616363525, "best_f1": 0.972940981388092, "best_val_f1": 0.9760496616363525}
